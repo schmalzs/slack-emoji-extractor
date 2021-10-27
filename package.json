@@ -1,0 +1,8 @@
+{
+  "name": "slack-emoji-extractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/schmalzs/slack-emoji-extractor",
+  "author": "Scott Schmalz",
+  "license": "MIT"
+}
